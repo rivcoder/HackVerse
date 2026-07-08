@@ -1,0 +1,8 @@
+{
+    "results": {
+        "null_check": "PASS: No null values found",
+        "duplicate_check": "PASS: No duplicate rows found",
+        "schema_check": "PASS: Schema valid"
+    },
+    "risk_score": 0
+}
